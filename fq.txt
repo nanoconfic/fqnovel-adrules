@@ -1,1 +1,1 @@
-@@||api*-normal.fqnovel.com^
+@@||api*-normal.fqnovel.com^$app=com.dragon.read
