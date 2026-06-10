@@ -1,1 +1,10 @@
+! Title: 番茄小说测试规则
+! Description: 番茄小说白名单测试
+! Version: 1.0
+! Time: 2026/06/10
+
+||*^$all,app=com.dragon.read
+
 @@||api*-normal.fqnovel.com^$app=com.dragon.read
+@@||lf*-reading.fqnovelstatic.com^$app=com.dragon.read
+@@||ichannel.snssdk.com^$app=com.dragon.read
